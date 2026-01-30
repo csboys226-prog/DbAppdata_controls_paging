@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EnQnbniSrU4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\THIS PC\\Desktop\\practical\\DbAppdata_controls_paging\\DbAppdata_controls_paging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\THIS PC\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.2\\microsoft.entityframeworkcore.10.0.2.nupkg.sha512",
+    "C:\\Users\\THIS PC\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.2\\microsoft.entityframeworkcore.abstractions.10.0.2.nupkg.sha512",
+    "C:\\Users\\THIS PC\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.2\\microsoft.entityframeworkcore.analyzers.10.0.2.nupkg.sha512",
+    "C:\\Users\\THIS PC\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\10.0.2\\microsoft.entityframeworkcore.inmemory.10.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
